@@ -24,7 +24,7 @@ Prepare the Code: Write both the Arduino and Python code required for the projec
 ## Application Phase
 Prepare the Hardware: After setting up the circuit, connect your Arduino board to your computer with a USB cable.
 Upload the Arduino Code: Compile and upload the code to your board from the Arduino IDE. Close the Arduino IDE after the upload is complete.
-Run the Python Code: After adjusting the COM port number to match your board, run the Python file.
+
 # Circuit Diagram
 The diagram below shows how to connect the LDR and LED to the Arduino.
 ![LDR Devre Şeması](images/ldr_devresemasi.png)

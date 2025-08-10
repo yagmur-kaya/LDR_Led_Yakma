@@ -27,6 +27,4 @@ Upload the Arduino Code: Compile and upload the code to your board from the Ardu
 Run the Python Code: After adjusting the COM port number to match your board, run the Python file.
 # Circuit Diagram
 The diagram below shows how to connect the LDR and LED to the Arduino.
-
-Circuit Diagram
-The diagram below shows how to connect the LDR and LED to the Arduino.
+![LDR Devre Şeması](images/ldr_devresemasi.png)

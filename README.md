@@ -27,7 +27,6 @@ Kodları Hazırlayın: Proje için gerekli olan hem Arduino hem de Python kodlar
 Donanımı Hazırlayın: Devreyi kurduktan sonra Arduino kartınızı USB kablosu ile bilgisayara bağlayın.
 Arduino Kodunu Yükleyin: Arduino IDE'sinden kodu derleyin ve kartınıza yükleyin. Yükleme tamamlandıktan sonra Arduino IDE'sini kapatın.
 Python Kodunu Çalıştırın: COM port numarasını kendi kartınıza uygun şekilde ayarladıktan sonra, Python dosyasını çalıştırın.
-Kodları Hazırlayın: Proje için gerekli olan hem Arduino hem de Python kodlarını yazın.
 
 ## Devre Şeması
 ![LDR Devre Şeması](images/ldr_devresemasi.png)

@@ -17,6 +17,7 @@ Yazılım: Arduino IDE, Python 3.x.
 Python Kütüphaneleri: pyserial, time.
 
 ## Kurulum ve Kullanım
+
 # Yapım Aşaması
 Devreyi Kurun: Board üzerine belirtilen devre elemanlarını şemaya uygun bir şekilde yerleştirin ve bağlantıları yapın.
 Gerekli Kütüphaneleri Kurun: Python için pyserial kütüphanesini terminal üzerinden pip install pyserial komutu ile yükleyin.
